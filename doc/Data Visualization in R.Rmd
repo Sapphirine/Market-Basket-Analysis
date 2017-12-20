@@ -1,8 +1,6 @@
 ---
 title: "Data Visualization in R"
-author: "Chenyun Zhu"
 date: "11/28/2017"
-output: html_document
 ---
 ### 1. Set Up & Load Data
 ```{r}
